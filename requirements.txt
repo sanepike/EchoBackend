@@ -4,3 +4,4 @@ python-dotenv
 pyGitHub
 openai
 gunicorn
+pydantic==1.10.9
