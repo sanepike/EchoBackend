@@ -3,3 +3,4 @@ langchain
 python-dotenv
 pyGitHub
 openai
+gunicorn
