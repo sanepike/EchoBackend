@@ -4,4 +4,5 @@ python-dotenv
 pyGitHub
 openai
 gunicorn
+flask_cors
 pydantic==1.10.9
