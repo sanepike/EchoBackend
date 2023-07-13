@@ -5,10 +5,10 @@ from dotenv import load_dotenv
 import os
 from github import Github, Auth
 import openai
-# from flask_cors import CORS
+from flask_cors import CORS
 
 app = Flask(__name__)
-# CORS(app, origins='*')
+CORS(app, origins='*')
 
 class Upload:
     def __init__(self):
