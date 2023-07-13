@@ -1,0 +1,6 @@
+flask
+io
+langchain
+python-dotenv
+pyGitHub
+openai
